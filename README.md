@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robermx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React and NodeJs
-- 💞️ I’m looking to collaborate on fullstack projects
+- 🌱 I’m currently learning AngularJS
+- 💞️ I’m looking to collaborate on Backend FrontEnd and fullstack projects
 - 📫 How to reach me roberto.arenas2@icloud.com
 
 <!---
