@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robermx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning AI automization
 - 💻 My web site is www.webxmex.com
 - 💞️ I’m looking to collaborate on FrontEnd and fullstack projects
 - 📫 How to reach me roberto.arenas2@icloud.com
